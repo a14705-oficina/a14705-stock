@@ -8,10 +8,13 @@
 
 <p>   O programa deve: </p>
       
-      Registar novos materiais no stock.
-      Consultar o stock de um material específico.
-      Atualizar a quantidade em stock (adição ou remoção).
-      Exibir o estado geral do stock.
+      ↦ Registar novos materiais no stock.
+      |
+      ↦ Consultar o stock de um material específico.
+      |
+      ↦ Atualizar a quantidade em stock (adição ou remoção).
+      |
+      ↳ Exibir o estado geral do stock.
 
 <h1> | PRINCIPAIS FUNÇÕES DO CÓDIGO </h1>
 
