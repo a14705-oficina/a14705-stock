@@ -1,7 +1,8 @@
 <h1>GESTÃO DE STOCK | AJUDA NA EXECUÇÃO</h1>
 
 <h1> | INTRODUÇÃO  </h1>
-<p> Desenvolver um programa em Python que utiliza funções para gerir o stock de materiais escolares de uma escola. O programa deverá permitir o registo, consulta e atualização do stock de forma eficiente.
+<p> Programa desenvolvido em Python que utiliza funções para gerir o stock de materiais escolares de uma escola. O programa tem acesso a registo, consulta e atualização do stock de forma eficiente.
+      
 <h1> | REQUISITOS </h1>
 
 <p>   O programa deve: </p>
