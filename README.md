@@ -15,7 +15,7 @@
 
 <h1> | PRINCIPAIS FUNÇÕES DO CÓDIGO </h1>
 
-<p>As principais funçóes deste programa são: </p>
+<p>As principais funções deste programa são: </p>
       
       → adicionar_material() - Para registar novos materiais.
       → consultar_stock() - Para verificar o stock de um material específico.
